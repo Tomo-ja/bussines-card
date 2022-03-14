@@ -1,6 +1,12 @@
+section {
+  padding: 0 35px;
+  background-color: #1a1b21;
+}
+
 .app {
   max-width: 317px;
   margin: 5vw auto;
+  font-family: "Inter", sans-serif;
 }
 
 .face-photo {
@@ -10,14 +16,18 @@
   border-radius: 10px 10px 0 0;
   object-fit: cover;
 }
+
 .profile {
-  background-color: #1a1b21;
 }
 .about {
-  background-color: #1a1b21;
 }
-.interests {
-  background-color: #1a1b21;
+.about > h2,
+.interests > h2 {
+  color: #dcdcdc;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+.interests h2 {
 }
 
 .footer {
