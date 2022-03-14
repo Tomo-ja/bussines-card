@@ -1,8 +1,8 @@
-import Image from '../images/img_profile.jpg'
+import image from '../images/img_profile.jpg'
 
 function Photo (){
 	return(
-		<img src = {Image}></img>
+		<img src = {image}></img>
 	)
 }
 export default Photo

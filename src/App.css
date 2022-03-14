@@ -1,0 +1,15 @@
+.app {
+  max-width: 317px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 73px;
+  background-color: #161619;
+}
+.footer > .icon {
+  width: 25px;
+  filter: invert(70%) sepia(2%) saturate(1647%) hue-rotate(213deg)
+    brightness(81%) contrast(93%);
+}

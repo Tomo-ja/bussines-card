@@ -7,7 +7,7 @@ import SnsFooter from './compornets/SnsFooter';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Photo />
       <Profile />
       <About />
