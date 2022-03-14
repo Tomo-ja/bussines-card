@@ -1,6 +1,9 @@
 function Profile (){
 	return(
-		<div>profile info is here</div>
+		<section className="profile">
+			<h1>Tomo Hashiguchi</h1>
+			<h3>Junior Developer</h3>
+		</section>
 	)
 }
 

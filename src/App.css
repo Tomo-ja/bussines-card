@@ -4,9 +4,20 @@
 }
 
 .face-photo {
+  position: relative;
+  top: 5px;
   height: 317px;
   border-radius: 10px 10px 0 0;
   object-fit: cover;
+}
+.profile {
+  background-color: #1a1b21;
+}
+.about {
+  background-color: #1a1b21;
+}
+.interests {
+  background-color: #1a1b21;
 }
 
 .footer {
